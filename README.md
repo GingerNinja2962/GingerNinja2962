@@ -5,7 +5,8 @@
 
 ### States of my GitHub Profile
 
-![GingerNinja2962's(that's me) GitHub Stats](https://github-readme-stats.vercel.app/api?username=GingerNinja2962&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=20&theme=great-gatsby)![GingerNinja2962's(that's me) GitHub Stats BreakDown](https://github-readme-stats.vercel.app/api/top-langs/?username=GingerNinja2962&hide_title=false&hide_border=false&layout=default&langs_count=10&&theme=great-gatsby&count_private=true)
+![GingerNinja2962's(that's me) GitHub Stats](https://github-readme-stats.vercel.app/api?username=GingerNinja2962&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=20&theme=great-gatsby)
+![GingerNinja2962's(that's me) GitHub Stats BreakDown](https://github-readme-stats.vercel.app/api/top-langs/?username=GingerNinja2962&hide_title=false&hide_border=false&layout=default&langs_count=10&&theme=great-gatsby&count_private=true&card_width=495&custom_title=My%20all%20time%20Most%20Used%20Languages)
 
 ### More About Me
 

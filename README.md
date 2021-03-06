@@ -1,6 +1,7 @@
 ### 📖 Languages I Know
 - C
 - C++
+- Java
 - Python
 
 ### 💻 My GitHub Stats

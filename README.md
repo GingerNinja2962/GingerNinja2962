@@ -1,6 +1,6 @@
 ### 📖 Languages I Know
 - C++ (Beginer)
-- Java (Beginer)
+- Java (Intermediate)
 - Python (Advanced)
 
 ### 💻 My GitHub Stats

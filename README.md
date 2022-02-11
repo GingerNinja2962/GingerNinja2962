@@ -10,11 +10,11 @@
 ### My Hackerrank Stats
   - [Visit my Hackerrank Profile!](https://www.hackerrank.com/henryswessels001)
 #### Hackerrank Badges
- ![Python 5 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Python_5_star.png)
- ![Java 4 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Java_5_star.png)
- ![Cpp 3 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Cpp_3_star.png)
- ![C 1 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/C_2_star.png)
- ![Problem Solving](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Problem_Solving_1_star.png)
+ ![Python 5 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Python/Python_5_star.png)
+ ![Java 4 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Java/Java_5_star.png)
+ ![Cpp 3 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Cpp/Cpp_3_star.png)
+ ![C 1 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/C/C_2_star.png)
+ ![Problem Solving](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Problem_Solving/Problem_Solving_1_star.png)
 
 ### 👨‍🎓 More About Me
 

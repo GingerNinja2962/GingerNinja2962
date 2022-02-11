@@ -14,7 +14,7 @@
  ![Java 4 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Java_5_star.png)
  ![Cpp 3 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Cpp_3_star.png)
  ![C 1 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/C_2_star.png)
- ![Problem Solving](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Problem_solving_1_star.png)
+ ![Problem Solving](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Problem_Solving_1_star.png)
 
 ### 👨‍🎓 More About Me
 

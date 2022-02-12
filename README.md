@@ -1,8 +1,8 @@
 ### 📖 Languages I Know
-- C (Beginer)
-- C++ (Intermediate)
-- Java (Advanced)
 - Python (Advanced)
+- Java (Advanced)
+- C++ (Intermediate)
+- C (Beginer)
 - Sql (Beginer)
 
 ### 💻 My GitHub Stats

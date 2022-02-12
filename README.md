@@ -14,7 +14,7 @@
 #### Hackerrank Badges
  ![Python 5 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Python/Python_5_star.png)
  ![Java 5 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Java/Java_5_star.png)
- ![SQL 3 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Sql/Sql_3_star.png)
+ ![SQL 4 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Sql/Sql_4_star.png)
  ![Cpp 3 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Cpp/Cpp_3_star.png)
  ![C 2 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/C/C_2_star.png)
  ![Problem Solving](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Problem_Solving/Problem_Solving_1_star.png)

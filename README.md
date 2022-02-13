@@ -3,7 +3,7 @@
 - Java (Advanced)
 - Sql (Advanced)
 - C++ (Intermediate)
-- C (Beginer)
+- C (Intermediate)
 - JavaScript (Beginer)
 
 ### 💻 My GitHub Stats
@@ -18,7 +18,7 @@
  ![SQL 5 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Sql/Sql_5_star.png)
  ![Problem Solving 3 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Problem_Solving/Problem_Solving_3_star.png)
  ![Cpp 3 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Cpp/Cpp_3_star.png)
- ![C 2 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/C/C_2_star.png)
+ ![C 3 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/C/C_3_star.png)
  ![10 days of javascript 1 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/10_days_of_javascript/10_days_of_javascript_1_star.png)
 
 ### 👨‍🎓 More About Me

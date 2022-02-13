@@ -17,7 +17,7 @@
  ![SQL 5 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Sql/Sql_5_star.png)
  ![Cpp 3 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Cpp/Cpp_3_star.png)
  ![C 2 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/C/C_2_star.png)
- ![Problem Solving](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Problem_Solving/Problem_Solving_1_star.png)
+ ![Problem Solving_2_star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Problem_Solving/Problem_Solving_2_star.png)
 
 ### 👨‍🎓 More About Me
 

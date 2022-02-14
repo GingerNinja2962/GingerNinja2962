@@ -20,14 +20,14 @@
  ![Problem Solving 3 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Problem_Solving/Problem_Solving_3_star.png)
  ![Cpp 3 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Cpp/Cpp_3_star.png)
  ![10 days of statistics 2 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/10_days_of_statistics/10_days_of_statistics_2_star.png)
- ![10 days of javascript 1 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/10_days_of_javascript/10_days_of_javascript_1_star.png)
+ ![10 days of javascript 2 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/10_days_of_javascript/10_days_of_javascript_2_star.png)
  ![30 days of code 1 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/30_days_of_code/30_days_of_code_1_star.png)
 
 ### 👨‍🎓 More About Me
 
 - 🌱 I’m currently a student studying at ***WeThinkCode_*** but I hope to some day be a software developer/engineer working in the industry. 
 <!--
-- I am currently 19 but am a hard working and dedicated individual trying to learn as much as I can from whom ever I can.
+- I am currently 20 but am a hard working and dedicated individual trying to learn as much as I can from whom ever I can.
 - I Finished Grade 12 in 2018 and started studying at ***WeThinkCode_*** in 2019, I have gotten full marks for all my assignments so far and really love the work I am studying. 
 -->
 ### 📫 How to reach me:

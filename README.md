@@ -20,6 +20,7 @@
  ![Problem Solving 3 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Problem_Solving/Problem_Solving_3_star.png)
  ![Cpp 3 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Cpp/Cpp_3_star.png)
  ![10 days of javascript 1 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/10_days_of_javascript/10_days_of_javascript_1_star.png)
+ ![30 days of code 1 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/13_days_of_code/30_days_of_code_1_star.png)
 
 ### 👨‍🎓 More About Me
 

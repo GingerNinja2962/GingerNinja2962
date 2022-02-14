@@ -21,6 +21,7 @@
  ![Cpp 3 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/Cpp/Cpp_3_star.png)
  ![10 days of javascript 1 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/10_days_of_javascript/10_days_of_javascript_1_star.png)
  ![30 days of code 1 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/30_days_of_code/30_days_of_code_1_star.png)
+ ![10 days of statistics 1 star](https://github.com/GingerNinja2962/HackerRank/blob/main/Badges/10_days_of_statistics/10_days_of_statistics_1_star.png)
 
 ### 👨‍🎓 More About Me
 

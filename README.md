@@ -1,5 +1,5 @@
 ### 📖 Languages I Know
-- Python (Advanced)
+- Python (Intermediate)
 - Java (Advanced)
 - Sql (Advanced)
 - C (Intermediate)
@@ -26,10 +26,23 @@
 
 ### 👨‍🎓 More About Me
 
-- 🌱 I’m currently a Software Engineer working at ***[IQBusiness](https://iqbusiness.net/)***. I Joined IQBusiness in April 2022 and have worked on on multiple Projects as a Java Developer.
-<!--
-- I am currently 20 but am a hard working and dedicated individual trying to learn as much as I can from whom ever I can.
-- I Finished Grade 12 in 2018 and started studying at ***WeThinkCode_*** in 2019, I have gotten full marks for all my assignments so far and really love the work I am studying. 
--->
+- 🌱 As a 23 year old I'm currently working as a Software Engineer at ***[IQBusiness](https://iqbusiness.net/)***. I Joined IQBusiness in April 2022 and have worked on on multiple Projects as a Java Developer.
+
+### 💼 Work Experiance:
+
+#### IQBusiness (Contected to FNB)
+- Contracted to FNB I have been working at IQBusiness for 2 years now.
+
+#### First Rand National Bank (FNB) 2022 -> Current
+- **SWIFT & Settlements** Division (1 year).
+  - Primary Language: **Java**
+  - I was involved in the development and maintance of the adaptor systems that connect to the [SWIFT](https://www.swift.com/) network.
+  - I worked on many of the old _MT_ and new **ISO 20022** message formats.
+
+- **Payments Orion** Divison (1 year).
+  - Primary Language: **Java**
+  - I was involved in the development and maintance of the adapor system that connects to [Bank Serv Africa](https://www.bankservafrica.com/website/).
+  - I also worked on a few other FNB projects including 'Credit Limits Engine', 'Request To Pay' and 'Pay Shap'.
+
 ### 📫 How to reach me:
   - [Visit my Linkedin Profile!](https://www.linkedin.com/in/henry-wessels-1606921ba)
